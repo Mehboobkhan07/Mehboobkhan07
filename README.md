@@ -20,9 +20,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mehboobcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mehboobcode" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mehboob khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehboob khan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mehboob-khan-745a2a202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehboob-khan-745a2a202" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/mehboobkhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mehboobkhan" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/themehboobkhan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/themehboobkhan/" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/[![gfg](https://img.shields.io/badge/geeksforgeeks-222222?style=flat-square&logo=geeksforgeeks&logocolor=00ff00&labelcolor=282828)](https://www.geeksforgeeks.org/user/themehboobkhan/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="[![gfg](https://img.shields.io/badge/geeksforgeeks-222222?style=flat-square&logo=geeksforgeeks&logocolor=00ff00&labelcolor=282828)](https://www.geeksforgeeks.org/user/themehboobkhan/)" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
