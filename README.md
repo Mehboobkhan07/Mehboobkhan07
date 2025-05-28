@@ -1,17 +1,12 @@
 <h1 align="center">Hi 👋, I'm Mehboob khan</h1>
-<h3 align="center">AI-Driven Backend Developer | Exploring Real-Time Systems, VoIP & Telecom Tech</h3>
+<h3 align="center">AI-Driven Backend Developer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehboobkhan07&label=Profile%20views&color=0e75b6&style=flat" alt="mehboobkhan07" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mehboobkhan07" alt="mehboobkhan07" /></a> </p>
 
-- 🔭 I’m currently working on [An AI-powered SIP traffic visualizer and analyzer]((Uploading soon))
 
 - 🌱 I’m currently learning **Kubernetes & Docker(for containerized deployments )**
-
-- 👯 I’m looking to collaborate on **Telecom-Focused Media Forking & Real-Time Analytics Demo**
-
-- 🤝 I’m looking for help with **VoIP Packet Simulation + Deep Learning Integration**
 
 - 💬 Ask me about **Backend APIs, AI Integration, Flask, Node.js, JWT Auth, MongoDB, TensorFlow**
 
