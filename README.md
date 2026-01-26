@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mehboob khan</h1>
-<h3 align="center">AI/Ml Developer </h3>
+<h3 align="center">AI/ML Developer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehboobkhan07&label=Profile%20views&color=0e75b6&style=flat" alt="mehboobkhan07" /> </p>
 
