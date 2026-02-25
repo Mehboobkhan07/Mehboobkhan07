@@ -5,9 +5,9 @@
 
 
 
-- 🌱 I’m currently learning **Kubernetes & Docker(for containerized deployments )**
+- 🌱 I’m currently building **LLM Systems , AI Agents**
 
-- 💬 Ask me about **Backend APIs, AI Integration, Flask, Node.js, JWT Auth, MongoDB, TensorFlow**
+- 💬 Ask me about ** Machine Learning , Data Science  , Backend APIs, AI Integration, Flask, Node.js, JWT Auth, MongoDB, TensorFlow**
 
 - 📫 How to reach me **[mehboobkhan04321@gmail.com](mailto:mehboobkhan04321@gmail.com)**
 
