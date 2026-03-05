@@ -193,6 +193,6 @@ fun_fact    = "I gave AI a voice, a brain, and a travel agency 🤖✈️"
 
 *"Build agents. Ship systems. Let the models do the thinking."*
 
-![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=58a6ff&style=flat-square&label=Profile+Views)
+![Visitor Count](https://komarev.com/ghpvc/?username=Mehboobkhan07&color=58a6ff&style=flat-square&label=Profile+Views)
 
 </div>
