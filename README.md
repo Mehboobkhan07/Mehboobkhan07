@@ -1,27 +1,166 @@
-<h1 align="center">Hi 👋, I'm Mehboob khan</h1>
-<h3 align="center">AI/ML Developer </h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mehboobkhan07&label=Profile%20views&color=0e75b6&style=flat" alt="mehboobkhan07" /> </p>
+```
+███╗   ███╗███████╗██╗  ██╗██████╗  ██████╗  ██████╗ ██████╗
+████╗ ████║██╔════╝██║  ██║██╔══██╗██╔═══██╗██╔═══██╗██╔══██╗
+██╔████╔██║█████╗  ███████║██████╔╝██║   ██║██║   ██║██████╔╝
+██║╚██╔╝██║██╔══╝  ██╔══██║██╔══██╗██║   ██║██║   ██║██╔══██╗
+██║ ╚═╝ ██║███████╗██║  ██║██████╔╝╚██████╔╝╚██████╔╝██████╔╝
+╚═╝     ╚═╝╚══════╝╚═╝  ╚═╝╚═════╝  ╚═════╝  ╚═════╝╚═════╝
+```
 
+### `< AI Engineer · ML Builder · Agent Architect />`
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mehboobkhan04321@gmail.com)
 
-- 🌱 I’m currently building **LLM Systems , AI Agents**
+</div>
 
-- 💬 Ask me about ** Machine Learning , Data Science  , Backend APIs, AI Integration, Flask, Node.js, JWT Auth, MongoDB, TensorFlow**
+---
 
-- 📫 How to reach me **[mehboobkhan04321@gmail.com](mailto:mehboobkhan04321@gmail.com)**
+## ⚡ About Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/mehboobcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mehboobcode" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mehboob-khan-745a2a202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehboob-khan-745a2a202" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mehboobkhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mehboobkhan" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/themehboobkhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="themehboobkhan" height="30" width="40" /></a>
-</p>
+```python
+class MehboobKhan:
+    role        = "Data Science & AI Engineer"
+    focus       = ["Multi-Agent AI Systems", "LLMs", "Computer Vision", "NLP"]
+    currently   = "Building intelligent agents that actually do things"
+    experience  = ["Zummit InfloLabs — Deep Learning & NLP Intern"]
+    reach_me_at = "mehboobkhan04321@gmail.com"
+    fun_fact    = "I gave AI a voice, a brain, and a travel agency 🤖✈️"
+```
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehboobkhan07&show_icons=true&locale=en&layout=compact" alt="mehboobkhan07" /></p>
+## 🛠️ Tech Stack
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mehboobkhan07&show_icons=true&locale=en" alt="mehboobkhan07" /></p>
+<div align="center">
+
+**AI / ML**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+**Backend & APIs**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+
+**Databases**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🏥 Smart Medical AI Agent
+> *Multi-agent healthcare orchestration system*
+
+- 🧠 **LangGraph** state machine orchestrating **6 specialized AI agents**
+- 💊 Live drug interaction data via **OpenFDA** & **RxNorm NIH** APIs
+- 🎙️ Voice-enabled with speech recognition + TTS
+- ⚙️ Stack: `FastAPI` · `LangChain` · `LangGraph` · `Groq LLM`
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00C851?style=flat-square&logo=render&logoColor=white)](https://your-link.com)
+
+</td>
+<td width="50%">
+
+### ✈️ AI Agent Trip Planner
+> *Natural language → structured travel itineraries*
+
+- 🗺️ Converts free-form text into full travel plans
+- ⚡ **LangChain** agent reasoning with **FastAPI** backend
+- 🖥️ Streamlit frontend · deployed on **Render**
+- ⚙️ Stack: `FastAPI` · `LangChain` · `Groq LLM` · `Streamlit`
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00C851?style=flat-square&logo=render&logoColor=white)](https://your-link.com)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 😀 Face Emotion Detector
+> *Real-time emotion classification with custom CNN*
+
+- 🎯 **85% accuracy** across 7 emotion categories
+- 🏗️ Custom CNN: conv → maxpool → dense layers
+- 📷 Real-time detection via **OpenCV**
+- ⚙️ Stack: `TensorFlow` · `OpenCV` · `Python`
+
+</td>
+<td width="50%">
+
+### 🍽️ Restaurant Reservation System
+> *Full-stack booking engine with smart logic*
+
+- 🔐 JWT-based role auth for staff & customers
+- 📈 Peak-hour pricing + waitlist management
+- 🏗️ Clean MVC architecture with **Express.js** + **MongoDB**
+- ⚙️ Stack: `Node.js` · `Express.js` · `MongoDB` · `JWT`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 💼 Work Experience
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│  🏢  Zummit InfloLabs                    Aug 2024 – Dec 2024 │
+│  📌  Data Science Intern                                     │
+│                                                              │
+│  ▸ Integrated CNN & NLP models into Flask/Django backends   │
+│  ▸ Built NLP-based HR chatbot for automated resume screening │
+│  ▸ Shipped RESTful APIs for real-time ML model inference     │
+└─────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)
+
+</div>
+
+---
+
+<div align="center">
+
+*"Build agents. Ship systems. Let the models do the thinking."*
+
+![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=58a6ff&style=flat-square&label=Profile+Views)
+
+</div>
