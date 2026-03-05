@@ -1,18 +1,12 @@
 <div align="center">
 
-```
-███╗   ███╗███████╗██╗  ██╗██████╗  ██████╗  ██████╗ ██████╗
-████╗ ████║██╔════╝██║  ██║██╔══██╗██╔═══██╗██╔═══██╗██╔══██╗
-██╔████╔██║█████╗  ███████║██████╔╝██║   ██║██║   ██║██████╔╝
-██║╚██╔╝██║██╔══╝  ██╔══██║██╔══██╗██║   ██║██║   ██║██╔══██╗
-██║ ╚═╝ ██║███████╗██║  ██║██████╔╝╚██████╔╝╚██████╔╝██████╔╝
-╚═╝     ╚═╝╚══════╝╚═╝  ╚═╝╚═════╝  ╚═════╝  ╚═════╝╚═════╝
-```
+# Hi, I'm Mehboob Khan 👋
 
 ### `< AI Engineer · ML Builder · Agent Architect />`
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolioaiml.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehboob-khan-745a2a202/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/MehboobKhan/)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mehboobkhan04321@gmail.com)
 
 </div>
@@ -22,13 +16,12 @@
 ## ⚡ About Me
 
 ```python
-class MehboobKhan:
-    role        = "Data Science & AI Engineer"
-    focus       = ["Multi-Agent AI Systems", "LLMs", "Computer Vision", "NLP"]
-    currently   = "Building intelligent agents that actually do things"
-    experience  = ["Zummit InfloLabs — Deep Learning & NLP Intern"]
-    reach_me_at = "mehboobkhan04321@gmail.com"
-    fun_fact    = "I gave AI a voice, a brain, and a travel agency 🤖✈️"
+role        = "Data Science & AI Engineer"
+focus       = ["Multi-Agent AI Systems", "LLMs", "Computer Vision", "NLP"]
+currently   = "Building intelligent agents that actually do things"
+experience  = ["Zummit InfloLabs — Deep Learning & NLP Intern"]
+reach_me_at = "mehboobkhan04321@gmail.com"
+fun_fact    = "I gave AI a voice, a brain, and a travel agency 🤖✈️"
 ```
 
 ---
@@ -69,65 +62,6 @@ class MehboobKhan:
 
 ---
 
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🏥 Smart Medical AI Agent
-> *Multi-agent healthcare orchestration system*
-
-- 🧠 **LangGraph** state machine orchestrating **6 specialized AI agents**
-- 💊 Live drug interaction data via **OpenFDA** & **RxNorm NIH** APIs
-- 🎙️ Voice-enabled with speech recognition + TTS
-- ⚙️ Stack: `FastAPI` · `LangChain` · `LangGraph` · `Groq LLM`
-
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00C851?style=flat-square&logo=render&logoColor=white)](https://your-link.com)
-
-</td>
-<td width="50%">
-
-### ✈️ AI Agent Trip Planner
-> *Natural language → structured travel itineraries*
-
-- 🗺️ Converts free-form text into full travel plans
-- ⚡ **LangChain** agent reasoning with **FastAPI** backend
-- 🖥️ Streamlit frontend · deployed on **Render**
-- ⚙️ Stack: `FastAPI` · `LangChain` · `Groq LLM` · `Streamlit`
-
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00C851?style=flat-square&logo=render&logoColor=white)](https://your-link.com)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 😀 Face Emotion Detector
-> *Real-time emotion classification with custom CNN*
-
-- 🎯 **85% accuracy** across 7 emotion categories
-- 🏗️ Custom CNN: conv → maxpool → dense layers
-- 📷 Real-time detection via **OpenCV**
-- ⚙️ Stack: `TensorFlow` · `OpenCV` · `Python`
-
-</td>
-<td width="50%">
-
-### 🍽️ Restaurant Reservation System
-> *Full-stack booking engine with smart logic*
-
-- 🔐 JWT-based role auth for staff & customers
-- 📈 Peak-hour pricing + waitlist management
-- 🏗️ Clean MVC architecture with **Express.js** + **MongoDB**
-- ⚙️ Stack: `Node.js` · `Express.js` · `MongoDB` · `JWT`
-
-</td>
-</tr>
-</table>
-
----
-
 ## 💼 Work Experience
 
 ```
@@ -143,6 +77,113 @@ class MehboobKhan:
 
 ---
 
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🏥 Smart Medical AI Agent
+> *Multi-agent healthcare orchestration system*
+
+- 🧠 **LangGraph** state machine orchestrating **6 specialized AI agents**
+- 💊 Live drug interaction data via **OpenFDA** & **RxNorm NIH** APIs
+- 🎙️ Voice-enabled with speech recognition + TTS
+- ⚙️ Stack: `FastAPI` · `LangChain` · `LangGraph` · `Groq LLM`
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00C851?style=flat-square&logo=netlify&logoColor=white)](https://medicineagent.netlify.app/)
+
+</td>
+<td width="50%">
+
+### ✈️ AI Agent Trip Planner
+> *Natural language → structured travel itineraries*
+
+- 🗺️ Converts free-form text into full travel plans
+- ⚡ **LangChain** agent reasoning with **FastAPI** backend
+- 🖥️ Streamlit frontend deployed on Render
+- ⚙️ Stack: `FastAPI` · `LangChain` · `Groq LLM` · `Streamlit`
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00C851?style=flat-square&logo=streamlit&logoColor=white)](https://ai-trip-planner-frontend-xny4poyvrq2gqtnwf6stnq.streamlit.app/)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🚗 Ride Sharing Microservices Backend
+> *Uber-like backend with 5 independent microservices*
+
+- 🧩 Services: Auth · Rider · Driver · Trip · Billing
+- 🔐 JWT authentication across all services
+- 🔗 Axios for inter-service communication
+- ⚙️ Stack: `Node.js` · `Express.js` · `MongoDB` · `JWT`
+
+</td>
+<td width="50%">
+
+### 😀 Face Emotion Detector
+> *Real-time emotion classification with custom CNN*
+
+- 🎯 **85% accuracy** across 7 emotion categories
+- 🏗️ Custom CNN: conv → maxpool → dense layers
+- 📷 Real-time detection via **OpenCV**
+- ⚙️ Stack: `TensorFlow` · `OpenCV` · `Python`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🍽️ Restaurant Reservation System
+> *Full-stack booking engine with smart logic*
+
+- 🔐 JWT-based role auth for staff & customers
+- 📈 Peak-hour pricing + waitlist management
+- 🏗️ Clean MVC architecture
+- ⚙️ Stack: `Node.js` · `Express.js` · `MongoDB` · `JWT`
+
+</td>
+<td width="50%">
+
+### 📊 Uber Ride Bookings — EDA
+> *Exploratory data analysis on NCR ride bookings*
+
+- 🕐 Time-based trends: hourly, daily, monthly patterns
+- 🗺️ Geospatial analysis of pickup/drop-off hotspots
+- 📈 Correlation analysis between demand & time
+- ⚙️ Stack: `Pandas` · `NumPy` · `Matplotlib` · `Seaborn`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 💬 Talk-With-PDF
+> *Chat with your PDF documents using NLP*
+
+- 📄 Upload multiple PDFs and query them naturally
+- 🧠 Google Generative AI embeddings for semantic search
+- 🔍 Similarity-based retrieval + conversational Q&A chain
+- ⚙️ Stack: `Python` · `LangChain` · `Google Generative AI`
+
+</td>
+<td width="50%">
+
+### ✋ Volume Control via Hand Gesture
+> *Control your PC volume with hand gestures in real-time*
+
+- 📷 Real-time hand tracking using **MediaPipe**
+- 🔊 Gesture-to-system-command translation
+- 🖥️ GUI with start/stop and sensitivity controls
+- ⚙️ Stack: `Python` · `OpenCV` · `MediaPipe` · `PyAutoGUI`
+
+</td>
+</tr>
+</table>
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -150,8 +191,6 @@ class MehboobKhan:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)
 
 </div>
 
